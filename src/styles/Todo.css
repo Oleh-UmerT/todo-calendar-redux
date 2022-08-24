@@ -1,0 +1,47 @@
+.todos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.back {
+    width: 150px;
+    height: 45px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 24px;
+    margin-top: 15px;
+    background-color: lightcoral;
+}
+
+.form {
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 500px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input {
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.time {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.submit {
+    background-color: lightgreen;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 24px;
+    margin-top: 15px;
+}

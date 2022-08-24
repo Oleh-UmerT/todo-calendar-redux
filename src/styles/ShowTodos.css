@@ -1,0 +1,21 @@
+.delete {
+    background-color: lightcoral;
+    font-size: 24px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.update {
+    background-color: lightgoldenrodyellow;
+    font-size: 24px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: 0 10px 0 10px;
+}
+
+.confirm {
+    background-color: #1eb5a6;
+    font-size: 24px;
+    border-radius: 10px;
+    border: 1px solid black;
+}

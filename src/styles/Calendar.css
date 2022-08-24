@@ -1,0 +1,18 @@
+.addTodo {
+    width: auto;
+    height: auto;
+    font-size: 24px;
+    background-color: lightgreen;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.alert {
+    background-color: lightsalmon;
+    margin: 0 auto 0 auto;
+    width: 700px;
+    opacity: 0.4;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 28px;
+}
