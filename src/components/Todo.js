@@ -54,7 +54,6 @@ export default function Todos() {
           className="time"
         />
         <input type="hidden" {...register('remindMe')} value="false" />
-        <input type="hidden" {...register('done')} value="false" />
         <button type="submit" className="submit">
           Submit
         </button>
